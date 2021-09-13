@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juanse091
-- 👀 I’m interested in VideoGames
+- 👀 I’m interested in VideoGames and Programmation
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
